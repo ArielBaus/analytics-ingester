@@ -1,0 +1,11 @@
+id;asset_name;ip;created_utc;source;category
+119611;server_horizon;102.145.229.227;27/02/2024 00:00;pxtrpf;explaoit-public facing
+142280;address_artichoke;118.123.166.144;06/09/2024 00:00;defender;valida_accounts
+315061;server_spray;18.147.227.44;08/04/2024 00:00;crowdstrike;supply chain compromise
+402618;server_spark;8.245.154.104;04/02/2024 00:00;pxtrpf;phising
+657001;server_serenade;99.111.27.245;17/08/2024 00:00;pxtrpf;phising
+281682;name_flare;15.232.2.167;12/06/2024 00:00;crowdstrike_cs;Replication through removable media
+856468;script_shrine;98.157.98.17;03/06/2024 00:00;crowdstrike;phising
+958471;server_sonic;41.139.178.210;04/10/2024 00:00;xpklnr;Replication through removable media
+867814;automated_azalea;25.133.203.93;16/08/2024 00:00;crowdstrike;external-remote-service
+728170;server_spark;8.245.154.104;31/05/2024 00:00;pxtrpf;content_injection
